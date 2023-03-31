@@ -1,0 +1,6 @@
+[submodule "travel-site-backend"]
+	path = travel-site-backend
+	url = https://github.com/sadityakumar9211/travel-site-backend
+[submodule "travel-site-frontend"]
+	path = travel-site-frontend
+	url = https://github.com/sadityakumar9211/travel-site-frontend
